@@ -7,7 +7,7 @@ Median adalah platform penerbitan sosial berbasis web yang bertujuan untuk menja
 ![image](https://github.com/user-attachments/assets/911667f7-45b1-484d-9fee-032f4917df4d)
 
 # Landing Page
-![image](https://github.com/user-attachments/assets/fe3ceec8-0498-4920-9c04-ccdc8e87ff82)
+![image](https://github.com/user-attachments/assets/b3b98d9b-b019-40cf-8281-a9ba5ca50560)
 
 # Teknologi yang digunakan:
 <ul>
@@ -16,3 +16,27 @@ Median adalah platform penerbitan sosial berbasis web yang bertujuan untuk menja
 </ul>
 
 Proyek ini saya gunakan untuk meningkatkan pemahaman dasar saya tentang HTML dan CSS, yang digunakan sebagai fondasi bagi seorang pengembang web.
+
+## How to Use
+
+1. **Clone this repository:**
+
+    ```bash
+    git clone https://github.com/your-repository.git
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Build the project:**
+
+    ```bash
+    npm run build
+    ```
+
+4. **Open it in a live server:**
+
+    You can use an extension like "Live Server" in VS Code or any other tool you prefer to serve the project locally.
