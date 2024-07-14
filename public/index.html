@@ -1,0 +1,103 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="shortcut icon" type="image/x-icon" href="../src/img/icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Median</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="font-inter">
+    <!-- Main Containner -->
+    <div class="flex flex-row h-full w-full text-center justify-center">
+      <!-- Login Kiri -->
+      <div
+        class="flex flex-col items-center pt-25 w-1/2 h-full h-max-full bg-primary gap-20 max-lg:hidden"
+      >
+        <div class="w-45 h-10">
+          <img src="../src/img/logo.png" alt="logo medium" />
+        </div>
+        <div class="w-3/5">
+          <img src="../src/img/login.png" alt="logo medium" />
+        </div>
+      </div>
+
+      <!-- Login kanan -->
+      <div
+        class="flex flex-col items-center justify-center pt-25 w-1/2 max-lg:w-full h-full max-h-full"
+      >
+        <!-- Logo Mobile
+        <div class="w-45 h-10">
+          <img src="../src/img/logo-mobile.png" alt="logo medium" />
+        </div> -->
+
+        <!-- Form Login -->
+        <div
+          class="shadow-md items-center w-1/2 max-lg:w-3/4 py-12 px-5 rounded-md"
+        >
+          <div class="m-6">
+            <div class="text-3xl font-bold">Login</div>
+            <div class="mt-2 text-base">Selamat datang kembali!</div>
+          </div>
+          <div class="m-6">
+            <div class="text-sm text-left ml-1">Email</div>
+            <input
+              type="text"
+              class="m-1 w-full h-9 rounded-md border border-slate-400 px-3"
+              placeholder="Masukkan Email"
+            />
+          </div>
+          <div class="m-6">
+            <div class="text-sm text-left ml-1">Kata Sandi</div>
+            <input
+              type="Password"
+              class="m-1 w-full h-9 rounded-md border border-slate-400 px-3"
+              placeholder="Masukkan Kata"
+            />
+          </div>
+          <div
+            class="m-6 flex flex-row justify-between text-xs my-1 text-primary"
+          >
+            <a href="" class="ml-1"
+              >Belum Punya Akun? <span class="font-bold">Register</span></a
+            >
+            <a href="" class="font-bold">Lupa Password?</a>
+          </div>
+          <div class="mt-6 mx-6">
+            <a href="LandingPage.html">
+                <button class="m-1 text-white bg-primary w-full h-9 rounded-md">
+                  Login
+                </button>
+            </a>
+          </div>
+          <div class="m-2">
+            <button class="ml-1 text-gray text-sm">atau</button>
+          </div>
+          <div class="mx-6">
+            <button
+              class="flex flex-row justify-center items-center m-1 border border-slate-400 w-full h-9 rounded-md bg-white hover:bg-gray-100"
+            >
+              <img
+                src="../src/img/google.png"
+                alt="Google logo"
+                class="h-6 mr-2"
+              />
+              <span class="text-black">Login dengan Google</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Footer
+        <footer class="w-full text-sm text-gray border-t border-slate-400 mb-0">
+          © 2023 PT. Median. All Rights Reserved
+        </footer> -->
+
+      </div>
+    </div>
+  </body>
+</html>
