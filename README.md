@@ -22,7 +22,7 @@ Proyek ini saya gunakan untuk meningkatkan pemahaman dasar saya tentang HTML dan
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/your-repository.git
+    git clone https://github.com/PutraZakaria/Median.git
     ```
 
 2. **Install dependencies:**
