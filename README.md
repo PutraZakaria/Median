@@ -13,7 +13,7 @@ Median adalah platform penerbitan sosial berbasis web yang bertujuan untuk menja
 # Teknologi yang digunakan:
 <ul>
   <li>HTML(HyperText Markup Language)</li>
-  <li>Laravel</li>
+  <li>Tailwind CSS</li>
 </ul>
 
 Proyek ini saya gunakan untuk meningkatkan pemahaman dasar saya tentang HTML dan CSS, yang digunakan sebagai fondasi bagi seorang pengembang web.
